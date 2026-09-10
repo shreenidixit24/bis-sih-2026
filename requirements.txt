@@ -1,0 +1,13 @@
+flask==3.0.0
+flask-cors==4.0.0
+python-dotenv==1.0.0
+# Optional: for OpenAI API integration
+# openai==1.0.0
+# Optional: for Google Gemini API integration
+# google-generativeai==0.3.0
+# Optional: for PDF processing in Document Assistant
+# PyPDF2==3.0.1
+# pdfplumber==0.10.3
+# Optional: for vector database (production RAG)
+# chromadb==0.4.0
+# sentence-transformers==2.2.2
