@@ -1,0 +1,358 @@
+{
+  "_metadata": {
+    "note": "DEMO DATA - For SIH 2026 Hackathon Prototype only. Replace with verified official BIS data before production use.",
+    "source": "Based on publicly available BIS information",
+    "last_updated": "2025",
+    "version": "1.0.0"
+  },
+  "general": [
+    {
+      "id": "gen_001",
+      "topic": "what is bis",
+      "keywords": ["what is bis", "bureau of indian standards", "about bis", "bis india", "national standards body"],
+      "title": "About BIS - Bureau of Indian Standards",
+      "content": "BIS (Bureau of Indian Standards) is the National Standards Body of India, established under the BIS Act, 2016. It operates under the Ministry of Consumer Affairs, Food and Public Distribution, Government of India. BIS is responsible for the harmonious development of the activities of standardization, marking and quality certification of goods and for matters connected therewith or incidental thereto.",
+      "key_points": [
+        "BIS is India's national standards body established under BIS Act, 2016",
+        "Operates under the Ministry of Consumer Affairs, Food and Public Distribution",
+        "Responsible for standardization, marking and quality certification",
+        "Headquarters located in New Delhi",
+        "Has regional offices across India",
+        "Publishes Indian Standards (IS) documents"
+      ],
+      "source": "BIS Act 2016 / BIS Official Website",
+      "source_url": "https://www.bis.gov.in/",
+      "category": "general"
+    },
+    {
+      "id": "gen_002",
+      "topic": "indian standard",
+      "keywords": ["what is indian standard", "is number", "indian standard document", "bis standard"],
+      "title": "Indian Standards (IS Documents)",
+      "content": "An Indian Standard (IS) is a document established by consensus and approved by BIS that provides rules, guidelines or characteristics for activities or their results, aimed at the achievement of the optimum degree of order in a given context. Indian Standards are identified by IS numbers (e.g., IS 1234). They cover a wide range of sectors including machinery, chemicals, textiles, food and agriculture, electronics, and more.",
+      "key_points": [
+        "Indian Standards are identified by IS numbers",
+        "Developed through consensus by technical committees",
+        "Cover sectors like machinery, chemicals, food, electronics, textiles",
+        "Available for purchase from BIS or can be viewed at BIS offices",
+        "Some standards are made mandatory through Quality Control Orders (QCOs)",
+        "Updated periodically to reflect technological advances"
+      ],
+      "source": "BIS Standardization",
+      "source_url": "https://www.bis.gov.in/index.php/standardization/",
+      "category": "general"
+    },
+    {
+      "id": "gen_003",
+      "topic": "quality control order",
+      "keywords": ["quality control order", "qco", "mandatory certification", "compulsory bis"],
+      "title": "Quality Control Orders (QCOs)",
+      "content": "A Quality Control Order (QCO) is a government notification issued under the Bureau of Indian Standards Act, 2016, that makes BIS certification mandatory for specific products. Under a QCO, manufacturers, importers, and sellers of specified products must obtain the BIS Standard Mark before selling those products in India. QCOs are issued by various Ministries based on consumer safety, health and environment considerations.",
+      "key_points": [
+        "QCOs make BIS certification mandatory for specific products",
+        "Issued by various Ministries under BIS Act, 2016",
+        "Products under QCO cannot be sold without BIS Standard Mark",
+        "Applies to manufacturers, importers, and sellers",
+        "Check the relevant Ministry website or BIS for current QCOs",
+        "Violations can result in penalties under BIS Act"
+      ],
+      "source": "BIS Quality Control Orders",
+      "source_url": "https://www.bis.gov.in/",
+      "category": "general"
+    }
+  ],
+  "certification": [
+    {
+      "id": "cert_001",
+      "topic": "bis certification",
+      "keywords": ["bis certification", "how to get bis", "bis license", "standard mark", "isi mark", "bis mark"],
+      "title": "BIS Product Certification (Standard Mark)",
+      "content": "BIS Product Certification (also known as Standard Mark scheme) is a scheme through which BIS licenses manufacturers to use the Standard Mark (ISI Mark) on their products after verifying that the product conforms to the relevant Indian Standard. It is a third-party certification scheme where BIS acts as the certification body.",
+      "key_points": [
+        "Also called the ISI Mark scheme or Standard Mark scheme",
+        "BIS acts as third-party certification body",
+        "License allows manufacturer to use the BIS Standard Mark",
+        "Product must conform to the relevant Indian Standard",
+        "Applicable for both Indian and foreign manufacturers",
+        "License is valid for a specific period and requires renewal"
+      ],
+      "source": "BIS Product Certification",
+      "source_url": "https://www.bis.gov.in/index.php/product-certification/",
+      "category": "certification"
+    },
+    {
+      "id": "cert_002",
+      "topic": "certification process",
+      "keywords": ["certification process", "how to apply", "bis application", "certification steps", "get bis license"],
+      "title": "BIS Certification Process - Step by Step",
+      "content": "The BIS certification process involves several steps from identifying the applicable standard to receiving the license. The process is managed through BIS's online portal (Manak Online). Manufacturers need to identify the relevant Indian Standard, apply online, undergo testing and factory inspection, and receive the BIS license upon successful assessment.",
+      "key_points": [
+        "Step 1: Identify the applicable Indian Standard for your product",
+        "Step 2: Check if certification is mandatory (via QCO) or voluntary",
+        "Step 3: Prepare required documents (manufacturing details, test reports, etc.)",
+        "Step 4: Apply online through BIS Manak Online portal",
+        "Step 5: Product samples are tested at BIS recognized/NABL accredited labs",
+        "Step 6: Factory inspection may be conducted by BIS officials",
+        "Step 7: BIS reviews the application and test reports",
+        "Step 8: BIS License (Standard Mark License) is granted if requirements are met"
+      ],
+      "source": "BIS Product Certification",
+      "source_url": "https://www.bis.gov.in/index.php/product-certification/",
+      "category": "certification"
+    },
+    {
+      "id": "cert_003",
+      "topic": "documents required",
+      "keywords": ["documents required", "what documents", "application documents", "bis documents needed"],
+      "title": "Documents Typically Required for BIS Certification Application",
+      "content": "The exact documents required for BIS certification may vary depending on the product and applicable Indian Standard. The following is a general list of commonly required documents. Always verify the latest requirements from the official BIS Manak Online portal or contact BIS directly.",
+      "key_points": [
+        "Application form (online via Manak Online portal)",
+        "Business registration documents (company registration, GST, etc.)",
+        "Manufacturing process details and quality control plan",
+        "Product technical specifications and drawings",
+        "Test reports from BIS recognized/NABL accredited laboratory",
+        "Factory layout and manufacturing capacity details",
+        "Declaration of conformance to the applicable Indian Standard",
+        "Additional documents as specified in the relevant IS and scheme document"
+      ],
+      "source": "BIS Product Certification FAQs",
+      "source_url": "https://www.bis.gov.in/index.php/product-certification/",
+      "category": "certification"
+    },
+    {
+      "id": "cert_004",
+      "topic": "manak online portal",
+      "keywords": ["manak online", "bis portal", "online application", "bis website application"],
+      "title": "Manak Online - BIS Online Portal",
+      "content": "Manak Online is the official online portal of BIS through which manufacturers can apply for BIS certification, track application status, and manage their licenses. The portal is available at www.manakonline.in. It supports online submission of applications, document uploads, fee payments, and communication with BIS.",
+      "key_points": [
+        "Official BIS portal for certification applications",
+        "Available at www.manakonline.in",
+        "Supports online application submission",
+        "Allows document upload and fee payment",
+        "Track application and license status",
+        "Register as a new applicant before applying"
+      ],
+      "source": "BIS Manak Online",
+      "source_url": "https://www.manakonline.in/",
+      "category": "certification"
+    },
+    {
+      "id": "cert_005",
+      "topic": "foreign manufacturer certification",
+      "keywords": ["foreign manufacturer", "import bis", "fmcs", "foreign certification", "imported products bis"],
+      "title": "Foreign Manufacturers Certification Scheme (FMCS)",
+      "content": "BIS also provides certification to foreign manufacturers whose products are imported into India. Under the Foreign Manufacturers Certification Scheme (FMCS), foreign manufacturers can apply for BIS certification. The application is made through an authorized Indian Representative (AIR). The process includes testing at BIS recognized laboratories and factory inspection at the foreign manufacturing site.",
+      "key_points": [
+        "Foreign manufacturers can get BIS certification through FMCS",
+        "Application submitted through an Authorized Indian Representative (AIR)",
+        "Product testing at BIS recognized laboratories",
+        "Factory inspection at the foreign manufacturing site by BIS",
+        "Mandatory for products under QCO being imported into India",
+        "Contact BIS or visit official website for current requirements"
+      ],
+      "source": "BIS FMCS",
+      "source_url": "https://www.bis.gov.in/index.php/product-certification/",
+      "category": "certification"
+    }
+  ],
+  "standards": [
+    {
+      "id": "std_001",
+      "is_number": "IS 2 : 2022",
+      "title": "Rules for Rounding Off Numerical Values (Revised)",
+      "category": "General / Metrology",
+      "keywords": ["rounding", "numerical values", "rounding rules"],
+      "description": "This standard provides rules for rounding off numerical values for use in engineering and scientific applications.",
+      "applicable_products": ["General engineering", "Scientific measurements"],
+      "source": "BIS Know Your Standard",
+      "source_url": "https://www.bis.gov.in/"
+    },
+    {
+      "id": "std_002",
+      "is_number": "IS 302 (Part 1) : 2008",
+      "title": "Safety of Household and Similar Electrical Appliances",
+      "category": "Electrical / Electronics",
+      "keywords": ["electrical appliances", "household appliances", "safety", "electric"],
+      "description": "This standard specifies general safety requirements for household and similar electrical appliances. It covers requirements for construction, testing and marking of appliances.",
+      "applicable_products": ["Electric fans", "Electric heaters", "Mixers", "Grinders", "Washing machines"],
+      "source": "BIS Standards",
+      "source_url": "https://www.bis.gov.in/"
+    },
+    {
+      "id": "std_003",
+      "is_number": "IS 2643 : 1984",
+      "title": "Pressure Cookers (Domestic) - Specification",
+      "category": "Kitchen Appliances",
+      "keywords": ["pressure cooker", "kitchen", "cooking appliances", "aluminum"],
+      "description": "This standard specifies requirements for aluminum pressure cookers for domestic use, including materials, construction, testing and marking requirements.",
+      "applicable_products": ["Pressure cookers", "Domestic pressure cookers"],
+      "source": "BIS Standards",
+      "source_url": "https://www.bis.gov.in/"
+    },
+    {
+      "id": "std_004",
+      "is_number": "IS 1011 : 1992",
+      "title": "Biscuits - Specification",
+      "category": "Food and Agriculture",
+      "keywords": ["biscuits", "food", "bakery", "snacks"],
+      "description": "This standard specifies requirements for biscuits including composition, physical requirements, quality parameters, and labeling requirements.",
+      "applicable_products": ["Biscuits", "Bakery products"],
+      "source": "BIS Standards",
+      "source_url": "https://www.bis.gov.in/"
+    },
+    {
+      "id": "std_005",
+      "is_number": "IS 1498 : 1970",
+      "title": "Classification and Identification of Soils for General Engineering Purposes",
+      "category": "Civil Engineering",
+      "keywords": ["soil", "civil engineering", "construction", "geotechnical"],
+      "description": "This standard covers classification and identification of soils for general engineering purposes using visual examination and simple laboratory tests.",
+      "applicable_products": ["Soil engineering", "Construction", "Civil engineering projects"],
+      "source": "BIS Standards",
+      "source_url": "https://www.bis.gov.in/"
+    },
+    {
+      "id": "std_006",
+      "is_number": "IS 456 : 2000",
+      "title": "Plain and Reinforced Concrete - Code of Practice",
+      "category": "Civil Engineering / Construction",
+      "keywords": ["concrete", "cement", "construction", "rcc", "reinforced concrete", "building"],
+      "description": "This standard provides guidelines for the design and construction of plain and reinforced concrete structures, widely used in the construction industry.",
+      "applicable_products": ["Concrete structures", "Buildings", "Bridges", "Infrastructure"],
+      "source": "BIS Standards",
+      "source_url": "https://www.bis.gov.in/"
+    },
+    {
+      "id": "std_007",
+      "is_number": "IS 432 (Part 1) : 1982",
+      "title": "Mild Steel and Medium Tensile Steel Bars - Specification",
+      "category": "Metals / Steel",
+      "keywords": ["steel bar", "mild steel", "iron rod", "construction steel", "tmt bar", "steel"],
+      "description": "This standard specifies requirements for mild steel and medium tensile steel bars used in general structural purposes.",
+      "applicable_products": ["Steel bars", "Iron rods", "Construction steel"],
+      "source": "BIS Standards",
+      "source_url": "https://www.bis.gov.in/"
+    },
+    {
+      "id": "std_008",
+      "is_number": "IS 2379 : 1990",
+      "title": "Identification of Pipe Work Systems - Colour Coding",
+      "category": "Piping / Plumbing",
+      "keywords": ["pipe", "plumbing", "colour coding", "pipe identification"],
+      "description": "This standard specifies colour coding for identification of pipe work systems carrying different types of fluids.",
+      "applicable_products": ["Pipes", "Plumbing systems", "Industrial piping"],
+      "source": "BIS Standards",
+      "source_url": "https://www.bis.gov.in/"
+    },
+    {
+      "id": "std_009",
+      "is_number": "IS 10500 : 2012",
+      "title": "Drinking Water - Specification",
+      "category": "Water / Environment",
+      "keywords": ["drinking water", "water quality", "water testing", "potable water"],
+      "description": "This standard specifies the requirements for drinking water quality in India, including physical, chemical, and bacteriological requirements.",
+      "applicable_products": ["Drinking water", "Packaged water", "Water treatment"],
+      "source": "BIS Standards",
+      "source_url": "https://www.bis.gov.in/"
+    },
+    {
+      "id": "std_010",
+      "is_number": "IS 7942 : 1975",
+      "title": "Helmets for Two-Wheel Motor Vehicles",
+      "category": "Safety Equipment / Automotive",
+      "keywords": ["helmet", "motorcycle", "safety helmet", "two wheeler", "head protection"],
+      "description": "This standard specifies requirements for protective helmets for riders of two-wheel motor vehicles, including materials, construction, and testing requirements.",
+      "applicable_products": ["Motorcycle helmets", "Scooter helmets", "Safety helmets"],
+      "source": "BIS Standards",
+      "source_url": "https://www.bis.gov.in/"
+    },
+    {
+      "id": "std_011",
+      "is_number": "IS 14772 : 2000",
+      "title": "General Requirements for Competence of Testing and Calibration Laboratories",
+      "category": "Testing & Calibration",
+      "keywords": ["testing laboratory", "calibration", "lab accreditation", "nabl"],
+      "description": "This standard specifies general requirements for the competence of testing and calibration laboratories.",
+      "applicable_products": ["Testing laboratories", "Calibration labs"],
+      "source": "BIS Standards",
+      "source_url": "https://www.bis.gov.in/"
+    },
+    {
+      "id": "std_012",
+      "is_number": "IS 13428 : 2005",
+      "title": "Packaged Natural Mineral Water - Specification",
+      "category": "Food and Agriculture / Water",
+      "keywords": ["mineral water", "packaged water", "bottled water", "water bottle"],
+      "description": "This standard specifies requirements for natural mineral water that is packaged and sold for human consumption.",
+      "applicable_products": ["Mineral water bottles", "Packaged drinking water"],
+      "source": "BIS Standards",
+      "source_url": "https://www.bis.gov.in/"
+    }
+  ],
+  "faqs": [
+    {
+      "id": "faq_001",
+      "question": "What is the ISI Mark?",
+      "keywords": ["isi mark", "isi certification", "bis mark logo"],
+      "answer": "The ISI Mark is the Standard Mark of BIS (Bureau of Indian Standards). It is granted to products that have been certified to conform to the relevant Indian Standard. Products bearing the ISI Mark have been tested and inspected by BIS or BIS recognized laboratories. The ISI Mark is one of the most recognized product quality marks in India.",
+      "source": "BIS Product Certification",
+      "source_url": "https://www.bis.gov.in/index.php/product-certification/"
+    },
+    {
+      "id": "faq_002",
+      "question": "Is BIS certification mandatory for all products?",
+      "keywords": ["mandatory bis", "compulsory certification", "required bis", "is bis required"],
+      "answer": "BIS certification is not mandatory for all products. It is mandatory only for products that are notified under a Quality Control Order (QCO) issued by the Government of India. For all other products, BIS certification is voluntary. However, even for products not under a QCO, obtaining BIS certification can provide a competitive advantage and assure consumers of product quality.",
+      "source": "BIS Product Certification FAQs",
+      "source_url": "https://www.bis.gov.in/index.php/product-certification/"
+    },
+    {
+      "id": "faq_003",
+      "question": "How long does BIS certification take?",
+      "keywords": ["bis certification time", "how long bis", "certification duration", "bis timeline"],
+      "answer": "The time taken for BIS certification can vary depending on the product category, complexity of the standard, and completeness of the application. Generally, the process from application to grant of license may take several weeks to months. BIS aims to process applications within defined timeframes. For the latest processing timelines, please check the BIS website or contact BIS directly.",
+      "source": "BIS Product Certification",
+      "source_url": "https://www.bis.gov.in/index.php/product-certification/"
+    },
+    {
+      "id": "faq_004",
+      "question": "What is BIS Hallmarking?",
+      "keywords": ["hallmarking", "gold hallmark", "jewellery hallmark", "bis hallmark", "huid"],
+      "answer": "BIS Hallmarking is a purity certification scheme for gold and silver jewellery in India. BIS hallmarks on gold jewellery include the BIS Mark, the fineness number (purity), the Assaying and Hallmarking Centre mark, and the Hallmark Unique Identification (HUID) number. BIS Hallmarking is mandatory for gold jewellery sold in India as per the government notification.",
+      "source": "BIS Hallmarking",
+      "source_url": "https://www.bis.gov.in/index.php/hallmarking/"
+    },
+    {
+      "id": "faq_005",
+      "question": "How can I find the applicable Indian Standard for my product?",
+      "keywords": ["find standard", "which standard applies", "applicable standard", "standard for my product"],
+      "answer": "To find the applicable Indian Standard for your product, you can: (1) Use the BIS website search at www.bis.gov.in to search for standards by product name or keyword, (2) Contact BIS directly or visit a BIS office, (3) Use the BIS Manak Online portal to search standards, (4) Consult with a BIS registered consultant. Note that the identification of the correct applicable standard is your responsibility, and you should verify with BIS or a qualified professional.",
+      "source": "BIS Know Your Standard",
+      "source_url": "https://www.bis.gov.in/"
+    },
+    {
+      "id": "faq_006",
+      "question": "What is the difference between IS mark and ISI mark?",
+      "keywords": ["is mark vs isi mark", "difference is isi", "is mark"],
+      "answer": "The ISI Mark and the Standard Mark are often used interchangeably and refer to the same BIS certification mark. BIS grants the Standard Mark (which is commonly called the ISI Mark) to certified products. The term 'ISI' historically referred to 'Indian Standards Institution', the predecessor to BIS. Today, BIS is the correct name of the organization, and its mark is formally called the Standard Mark.",
+      "source": "BIS Product Certification",
+      "source_url": "https://www.bis.gov.in/index.php/product-certification/"
+    }
+  ],
+  "sample_questions": [
+    "What is BIS?",
+    "How do I get BIS certification?",
+    "What is an Indian Standard?",
+    "How can I find a standard for my product?",
+    "What documents may be required for BIS certification?",
+    "What is a Quality Control Order?",
+    "What is the ISI Mark?",
+    "Is BIS certification mandatory?",
+    "What is BIS Hallmarking?",
+    "How long does BIS certification take?",
+    "What is FMCS?",
+    "What is Manak Online?"
+  ]
+}
